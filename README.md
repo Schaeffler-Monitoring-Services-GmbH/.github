@@ -25,6 +25,7 @@ define their own equivalent. A repository-local file always wins.
 | [Organization profile](https://github.com/Schaeffler-Monitoring-Services-GmbH) | GitHub organization page, rendered from `profile/README.md` |
 | [Organization website](https://schaeffler-monitoring-services-gmbh.github.io/) | Static landing page, source in `Schaeffler-Monitoring-Services-GmbH.github.io` |
 | [Schaeffler Lifetime Solutions](https://sls-cdn.schaeffler-iot.com/) | Predictive maintenance products by Schaeffler Lifetime Solutions |
+| [Technical support](https://medias.schaeffler.de/en/lifetime-solutions/technical-support) | Products, hardware and OPTIME Digital Service |
 | [OPTIME](https://schaeffler-optime.io/) | OPTIME product site |
 
 ## Maintainers
