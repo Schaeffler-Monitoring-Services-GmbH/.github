@@ -16,6 +16,7 @@ Official GitHub organization of **Schaeffler Monitoring Services GmbH**
 | Site | |
 |---|---|
 | [Schaeffler Lifetime Solutions](https://sls-cdn.schaeffler-iot.com/) | Predictive maintenance products by Schaeffler Lifetime Solutions |
+| [Technical support](https://medias.schaeffler.de/en/lifetime-solutions/technical-support) | Products, hardware and OPTIME Digital Service |
 | [OPTIME](https://schaeffler-optime.io/) | OPTIME product site |
 | [Organization website](https://schaeffler-monitoring-services-gmbh.github.io/) | Landing page of this GitHub organization |
 
