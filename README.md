@@ -18,6 +18,15 @@ This repository provides organization-wide defaults for
 Files here are used automatically by repos in this organization that do **not**
 define their own equivalent. A repository-local file always wins.
 
+## Related sites
+
+| Site | |
+|---|---|
+| [Organization profile](https://github.com/Schaeffler-Monitoring-Services-GmbH) | GitHub organization page, rendered from `profile/README.md` |
+| [Organization website](https://schaeffler-monitoring-services-gmbh.github.io/) | Static landing page, source in `Schaeffler-Monitoring-Services-GmbH.github.io` |
+| [Schaeffler Lifetime Solutions](https://sls-cdn.schaeffler-iot.com/) | Predictive maintenance products by Schaeffler Lifetime Solutions |
+| [OPTIME](https://schaeffler-optime.io/) | OPTIME product site |
+
 ## Maintainers
 
 Changes are made by pull request and require maintainer review.
