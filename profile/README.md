@@ -8,6 +8,16 @@ Official GitHub organization of **Schaeffler Monitoring Services GmbH**
 | Repository | Description |
 |---|---|
 | [SmC-PL-data-converter](https://github.com/Schaeffler-Monitoring-Services-GmbH/SmC-PL-data-converter) | Data converter, C++ (MIT) |
+| [optime](https://github.com/Schaeffler-Monitoring-Services-GmbH/optime) | Repository for the OPTIME product |
+| [Schaeffler-Monitoring-Services-GmbH.github.io](https://github.com/Schaeffler-Monitoring-Services-GmbH/Schaeffler-Monitoring-Services-GmbH.github.io) | Source of our website |
+
+## Related sites
+
+| Site | |
+|---|---|
+| [Schaeffler Lifetime Solutions](https://sls-cdn.schaeffler-iot.com/) | Predictive maintenance products by Schaeffler Lifetime Solutions |
+| [OPTIME](https://schaeffler-optime.io/) | OPTIME product site |
+| [Organization website](https://schaeffler-monitoring-services-gmbh.github.io/) | Landing page of this GitHub organization |
 
 ## Getting in touch
 
