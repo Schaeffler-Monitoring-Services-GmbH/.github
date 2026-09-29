@@ -1,0 +1,6 @@
+{
+  "name": "CI",
+  "description": "Build and test the project on every push and pull request.",
+  "iconName": "octicon check-circle",
+  "categories": ["Continuous integration"]
+}

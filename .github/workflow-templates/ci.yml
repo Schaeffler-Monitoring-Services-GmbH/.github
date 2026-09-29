@@ -1,0 +1,16 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      # TODO: replace with the repository's real build/test steps.
+      - name: Placeholder
+        run: echo "Configure build and test steps for this repository"
